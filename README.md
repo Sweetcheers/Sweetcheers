@@ -1,4 +1,5 @@
-## Hi there 👋
+don't mind this
+<img width="601" height="377" alt="Image" src="https://github.com/user-attachments/assets/2598514c-0569-48f6-9a8e-1fab54bbc624" />
 
 <!--
 **Sweetcheers/Sweetcheers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
